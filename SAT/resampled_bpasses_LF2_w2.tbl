@@ -1,4 +1,4 @@
-|bandpass_frequency|      bandpass_weights|
+|bandpass_frequency|       bandpass_weight|
 |            double|                double|
 |               GHz|                      |
 |              null|                  null|
